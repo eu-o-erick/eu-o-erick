@@ -1,11 +1,4 @@
-# 🧑‍💻 Erick M. Martins  
-
-🚀 Explorando novas tecnologias e desenvolvendo soluções inovadoras.  
-📚 Aprofundando meus conhecimentos em desenvolvimento com  [curso.dev](https://curso.dev).  
-
----
-
-## 🛠️ Minhas Skills
+# Erick M. Martins
  
 ### ⚡ Frontend
 
