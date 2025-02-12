@@ -1,4 +1,8 @@
 # Erick M. Martins
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eu-o-erick/)](https://www.linkedin.com/in/eu-o-erick/) 
+[![Gmail Badge](https://img.shields.io/badge/-erickmesquita.rs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmesquita.rs@gmail.com)](mailto:erickmesquita.rs@gmail.com)  
+
  ---
  
 ### ⚡ Frontend
@@ -28,8 +32,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ---
-## 📬 Onde me encontrar  
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eu-o-erick/)](https://www.linkedin.com/in/eu-o-erick/) 
-[![Gmail Badge](https://img.shields.io/badge/-erickmesquita.rs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmesquita.rs@gmail.com)](mailto:erickmesquita.rs@gmail.com)  
-
