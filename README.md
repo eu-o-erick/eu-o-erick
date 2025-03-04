@@ -18,6 +18,7 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### 🛠️ DevOps & Ferramentas  
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
